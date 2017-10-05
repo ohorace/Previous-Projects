@@ -3,7 +3,6 @@
  * Parser class to hand the left and right lists
  * 
  * @Olivia Horace
- * @version (a version number or a date)
  */
 import java.util.*;
 public class Parser
