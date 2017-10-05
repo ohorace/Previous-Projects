@@ -13,3 +13,8 @@ Projects completed in high school and during college
 * Bloodbank Class
 * Patients Class
 * Diagnostics Class
+
+**Compiler Construction** - Contains the program for a simple compiler that I created while doing undergraduate research Fall 2016. This is a very basic compiler that acts as a calculator. It reads an expression from a text file and returns the answer. I did not continue research in Spring 2017 so I was unable to finish my error handling. I started undergraduate research again during Fall 2017 but was given a different topic so I will finish this project in the future. 
+* SimpleCompiler Class - tester class, reads inputs and parses it into left and right sub problems by parenthesis
+* Parser Class - computes the answer of the equation
+
