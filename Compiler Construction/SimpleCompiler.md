@@ -78,7 +78,7 @@ public class SimpleCompiler2 {
             }
 
             //creates tree to perform calculation
-            Parser comp = new Parser(getMiddleOp(arr));
+            Compute comp = new Compute(getMiddleOp(arr));
             comp.setLeft(left);
             comp.setRight(right);
 
