@@ -1,17 +1,18 @@
 ```Java
 /**
- * Parser class to hand the left and right lists
+ * Compute class to calculate and return answer
  * 
  * @Olivia Horace
  */
 import java.util.*;
-public class Parser
+public class Compute
 {
     private String optr;
 
     private ArrayList<String> left = new ArrayList<String>();
     private ArrayList<String> right = new ArrayList<String>();
-    public Parser(String optChar){
+    
+    public Compute(String optChar){
         this.optr = optChar;
     }
     
