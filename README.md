@@ -10,7 +10,7 @@ Projects completed in high school and during college
 * *Amort Schedule* - this program prints an amortized loan schedule from an input sheet. The input sheet contains the loan amount, the monthly payment, the interest rate and the loan term. The output contains the total loan amount and breaks down each monthly payment. Then it has a line for each payment that shows the payment number, the payment amount, how much of the payment was for interest, how much of the payment was for the principal and the remaining loan amount.  
   
 **C#** - This folder contains a Bloodbank Project I completed in high school. It is very rough and is not very well implemented. This is before I learned about true OOP. Also, this was completed after learning C# in one school year. Not my best work, included only to show progression from very early coding days to present skill level.
-* Bloodbank Class (tester class)
+* Bloodbank Class (Tester Class)
 * Patients Class
 * Diagnostics Class
 
@@ -24,15 +24,17 @@ Projects completed in high school and during college
    * DomesticAnimal Class
    * Plant Class
    * WildAnimal Class
-   * ZooTester Class (tester class)
+   * ZooTester Class (Tester Class)
    * Feedable Interface
    * Plant input text file
    * Domesticated Animal input text file
    * Wild Animal input text file
    
 * *__Data Structures > Josephus:__* this project uses a Queue to solve the Josephus problem. You enter the number of people in a circle and the position that gets eliminated. It continues until one person is left remaining. This project contains:
-   * Josephus Class (tester class)
+   * Josephus Class (Tester Class)
    * MyQueue Class
    * Queue Interface
    
-
+* *__Data Structures > D2BH:__* this project converts a non-negative integer from decimal to binary and hexadecmial using stacks.
+   * D2BHTester (Tester Class)
+   * D2BHConverter Class
