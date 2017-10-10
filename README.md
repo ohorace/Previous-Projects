@@ -53,3 +53,26 @@ Projects completed in high school and during college
    
 **Outreach** - During my sophomore year in college I worked with the program Google Rise and reported to a professor here at CSU and a coordinator at Georgia Tech. During this time, some students and I tutored minority high school students in Computer Science in an attempt to increase AP Computer Science test stores. During this time, I made the worksheet found in this directory as a guide to break down the concept of classes.
 * Google Rise Tutorial Document
+
+**Swift** - While taking Object Oriented Design, I spent a lot of time focusing on game programming. Our final project was a game that had to involve navigating through various "rooms" and collecting and using objects. The professor, Rodrigo Obando, provided much of the framework for the game and we had to implement the rest. Any classes that I made have my name in the top comments as the creator. Likewise, any functionality that I added to classes that were given to us is indicated by my comments around the code I modified. 
+* AppDelegateClass
+* AskCommand Class (Class created by me)
+* BackCommand Class (Class created by me)
+* Command Class
+* CommandWords Class
+* DropCommand Class (Class created by me)
+* Game Class (Starts the game)
+* GameOutput Class
+* GameWorldClass
+* GetCommand Class (Class created by me)
+* GoCommand Class
+* HelpCommand Class
+* LockCommand Class (Class created by me)
+* Parser Class
+* Player Class
+* Quit Command Class
+* RandomCommand Class (Class created by me)
+* RestartCommand Class (Class created by me)
+* Room Class
+* RoomControl Class (Class created by me)
+* ViewCommand Class (Class created by me)
