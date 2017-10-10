@@ -42,3 +42,7 @@ Projects completed in high school and during college
 * *__Data Structures > TagChecker:__* this project checks the tags in an HTML file. It returns either Balanced or Unbalanced after checking to see if each open tag '<' has a close tag '>'
    * TagChecker (Tester Class)
    * ohoraceSample HTML file
+   
+* *__Misc > QMC:__* this performs the Quinne-McCluskey operation. I started this project in my spare time after completing the Computer Organization course. I did not complete the implemenation of Quinne-McCluskey in this project. I was able to code all the way to grouping the rows that have the same number of '1's together. I have yet to actually derive the expressions from these groupings. However, this is included just to show work that I have done on my own time.
+   * Tester (Tester Class)
+   * QMC
