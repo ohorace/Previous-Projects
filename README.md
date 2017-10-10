@@ -46,3 +46,6 @@ Projects completed in high school and during college
 * *__Misc > QMC:__* this performs the Quinne-McCluskey operation. I started this project in my spare time after completing the Computer Organization course. I did not complete the implemenation of Quinne-McCluskey in this project. I was able to code all the way to grouping the rows that have the same number of '1's together. I have yet to actually derive the expressions from these groupings. However, this is included just to show work that I have done on my own time.
    * Tester (Tester Class)
    * QMC
+   
+**Outreach** During my sophomore year in college I volunteered with the program Google Rise and worked with a coordinator at Georgia Tech. During this time, some students and I tutored minority high school students in Computer Science in an attempt to increase AP Computer Science test stores. During this time, I made the worksheet found in this directory as a guide to break down the concept of classes.
+* Google Rise Tutorial Document
