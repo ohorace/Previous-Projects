@@ -55,6 +55,7 @@ Projects completed in high school and during college
 * Google Rise Tutorial Document
 
 **Swift** - While taking Object Oriented Design, I spent a lot of time focusing on game programming. Our final project was a game that had to involve navigating through various "rooms" and collecting and using objects. The professor, Rodrigo Obando, provided much of the framework for the game and we had to implement the rest. Any classes that I made have my name in the top comments as the creator. Likewise, any functionality that I added to classes that were given to us is indicated by my comments around the code I modified. 
+* **Project Report** - contains information on how the game is to be played and explains functionalities within the game.
 * AppDelegateClass
 * AskCommand Class (Class created by me)
 * BackCommand Class (Class created by me)
