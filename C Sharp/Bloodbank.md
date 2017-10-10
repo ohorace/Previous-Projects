@@ -30,7 +30,7 @@ namespace BloodBank
                     Console.ResetColor();//resets color
 
                     if (Usernames.Any(str => (str.Equals(name, StringComparison.InvariantCultureIgnoreCase)) || (str.Contains(name))))//checks if the list of usernames contains the name entered
-                    {
+                    { 
                         Console.BackgroundColor = ConsoleColor.White;//sets font background to white
                         Console.ForegroundColor = ConsoleColor.Red;//sets font color to red
                         Console.WriteLine("This name has been entered!");//Warning displayed and loop restarts if name exists
