@@ -97,7 +97,7 @@ Now we can create the rest of our methods. What behaviors will our class need? O
         **/  
       public void Deposit(double newAmount)  
       {  
-          //how will we add the value of the parameter to the current  //balance and   store it  
+          //how will we add the value of the parameter to the current balance and store it  
       }  
   
        /**  
