@@ -14,6 +14,10 @@ Projects completed in high school and during college
 * Patients Class
 * Diagnostics Class
 
+**C** - This folder contains some intro projects completed while taking Operating Systems. These were Euler problems we solved to get familiar with programming in C.
+* Triplets - finds the Pythagorean triplet whose sum is equal to 1000. (a^2 + b^2 = c^2; find a, b, c where a + b + c = 1000)
+* Multiples - finds the sum of all the multiples of 3 or 5 below 1000.
+
 **Compiler Construction** - Contains the program for a simple compiler that I created while doing undergraduate research Fall 2016. This is a very basic compiler that acts as a calculator. It reads an expression from a text file and returns the answer. I did not continue research in Spring 2017 so I was unable to finish my error handling. I started undergraduate research again during Fall 2017 but was given a different topic so I will finish this project in the future. 
 * SimpleCompiler Class - tester class, reads inputs and parses it into left and right sub problems by parenthesis
 * Parser Class - computes the answer of the equation
