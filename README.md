@@ -38,3 +38,7 @@ Projects completed in high school and during college
 * *__Data Structures > D2BH:__* this project converts a non-negative integer from decimal to binary and hexadecmial using stacks.
    * D2BHTester (Tester Class)
    * D2BHConverter Class
+   
+* *__Data Structures > TagChecker:__* this project checks the tags in an HTML file. It returns either Balanced or Unbalanced after checking to see if each open tag '<' has a close tag '>'
+   * TagChecker (Tester Class)
+   * ohoraceSample HTML file
