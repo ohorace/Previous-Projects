@@ -277,7 +277,7 @@ File  Edit  Edit_Settings  Menu  Utilities  Compilers  Test  Help
  026700 OAMT     DC    CL14' '                                                  
  026800          DC    CL10'  PAYMENT:'                                         
  026900 OPAY     DC    CL11' '                                                  
- 027000          DC    CL7'  RATE:'                                             
+ 027000          DC    CL7'  RATE:'                                              
  027100 ORATE    DC    CL8' '                                                   
  027200          DC    CL7'  TERM:'                                             
  027300 OTERM    DC    CL5' '                                                   
