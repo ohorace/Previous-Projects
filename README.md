@@ -30,7 +30,7 @@ Projects completed in high school and during college
    * Domesticated Animal input text file
    * Wild Animal input text file
    
-* *__Data Structures > Josephus Problem:__* this project uses a Queue to solve the Josephus problem. You enter the number of people in a circle and the position that gets eliminated. It continues until one person is left remaining. This project contains:
+* *__Data Structures > Josephus:__* this project uses a Queue to solve the Josephus problem. You enter the number of people in a circle and the position that gets eliminated. It continues until one person is left remaining. This project contains:
    * Josephus Class (tester class)
    * MyQueue Class
    * Queue Interface
