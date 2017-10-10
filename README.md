@@ -47,5 +47,5 @@ Projects completed in high school and during college
    * Tester (Tester Class)
    * QMC
    
-**Outreach** - During my sophomore year in college I worked with the program Google Rise and worked with a coordinator at Georgia Tech. During this time, some students and I tutored minority high school students in Computer Science in an attempt to increase AP Computer Science test stores. During this time, I made the worksheet found in this directory as a guide to break down the concept of classes.
+**Outreach** - During my sophomore year in college I worked with the program Google Rise and reported to a professor here at CSU and a coordinator at Georgia Tech. During this time, some students and I tutored minority high school students in Computer Science in an attempt to increase AP Computer Science test stores. During this time, I made the worksheet found in this directory as a guide to break down the concept of classes.
 * Google Rise Tutorial Document
