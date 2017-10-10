@@ -34,7 +34,7 @@ public class TagChecker
                         if (charStack.isEmpty())//checks if the stack is empty so the program won't attempt to pop an empty stack
                         {
                             result = false;//returns false and the line is unbalanced because there is nothing on the stack to match the closing bracket
-                            break;
+                            break; 
                         }
                         if(charStack.pop() != '<')//if the character that has been popped doesn't equal an open then it is unbalanced
                         {
