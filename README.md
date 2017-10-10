@@ -18,3 +18,14 @@ Projects completed in high school and during college
 * SimpleCompiler Class - tester class, reads inputs and parses it into left and right sub problems by parenthesis
 * Parser Class - computes the answer of the equation
 
+**Java** - Contains 3 subcategories: CompSci 2, Data Structures and Misc. 
+* *__CompSci 2 > Columbus Zoo:__* this project is a Zoo with a collection of plants and animals in different locations. Plants and animals can be fed, added, removed and searched. This project contains:
+   * Animal Class
+   * DomesticAnimal Class
+   * Plant Class
+   * WildAnimal Class
+   * Feedable Interface
+   * Plant input text file
+   * Domesticated Animal input text file
+   * Wild Animal input text file
+
