@@ -9,11 +9,6 @@ Projects completed in high school and during college
 * *Invoice* - this program prints an invoice statement using an input sheet
 * *Amort Schedule* - this program prints an amortized loan schedule from an input sheet. The input sheet contains the loan amount, the monthly payment, the interest rate and the loan term. The output contains the total loan amount and breaks down each monthly payment. Then it has a line for each payment that shows the payment number, the payment amount, how much of the payment was for interest, how much of the payment was for the principal and the remaining loan amount.  
   
-**C#** - This folder contains a Bloodbank Project I completed in high school. It is very rough and is not very well implemented. This is before I learned about true OOP. Also, this was completed after learning C# in one school year. Not my best work, included only to show progression from very early coding days to present skill level.
-* Bloodbank Class (Tester Class)
-* Patients Class
-* Diagnostics Class
-
 **C** - This folder contains some intro projects completed while taking Operating Systems. These were Euler problems we solved to get familiar with programming in C.
 * Triplets - finds the Pythagorean triplet whose sum is equal to 1000. (a^2 + b^2 = c^2; find a, b, c where a + b + c = 1000)
 * Multiples - finds the sum of all the multiples of 3 or 5 below 1000.
